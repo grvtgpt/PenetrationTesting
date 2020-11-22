@@ -16,6 +16,6 @@ Preferred order :
 11. Evil Twin
 
 
-Make sure you have the proper rights to penetrate/hack the system you are operating on.
+Make sure you have the proper rights to penetrate/hack the system you are operating on. Without certain rights, hacking is illegal and is counted as a cyber crime.
 
 Any contribution by you is valuable.
